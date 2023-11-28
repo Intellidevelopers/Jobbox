@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+jthemes.com	TRUE	/themes/wp/jobbox/	FALSE	1999999999	woocommerce_items_in_cart	1
+jthemes.com	TRUE	/themes/wp/jobbox/	FALSE	1999999999	wp_woocommerce_session_dde468964816843f3f14dd9c8afe5b1b	t_d9e1bb5e5235e50a23137a41bb420c%7C%7C1699172188%7C%7C1699168588%7C%7C86cf4774f0a32f5366a589d9aa1cf05e
+jthemes.com	TRUE	/themes/wp/jobbox/	FALSE	1999999999	woocommerce_cart_hash	9789c37cbe20bfe25a61b701d5f062b9
+
